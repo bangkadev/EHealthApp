@@ -1,0 +1,10 @@
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\bin\Debug\EHealthApp.exe.config
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\bin\Debug\EHealthApp.exe
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\bin\Debug\EHealthApp.pdb
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.csproj.AssemblyReference.cache
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.Form1.resources
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.Properties.Resources.resources
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.csproj.GenerateResource.cache
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.csproj.CoreCompileInputs.cache
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.exe
+C:\Users\bangk\source\repos\EHealthApp\EHealthApp\obj\Debug\EHealthApp.pdb
